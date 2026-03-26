@@ -1,2 +1,2 @@
-# -circulovirtuoso
+# circulovirtuoso
 Proyecto Mi Círculo Virtuoso
